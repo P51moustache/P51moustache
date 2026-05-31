@@ -9,7 +9,6 @@ Kellogg MBA · U.S. Naval Academy (Aerospace Engineering)
 **Trading / quant**
 - **[weather-prediction](https://github.com/P51moustache/weather-prediction)** — quantitative edge detection for Kalshi weather markets (NOAA forecasts vs. market prices)
 - **[prediction-arb-bot](https://github.com/P51moustache/prediction-arb-bot)** — automated arbitrage across Kalshi and Polymarket
-- **[neural-network-bot](https://github.com/P51moustache/neural-network-bot)** — crypto trading bot on an LSTM / CNN / Transformer ensemble
 
 **AI / product**
 - **[defense-startup-app](https://github.com/P51moustache/defense-startup-app)** — Defense Foundry: federal contract intelligence (NAICS/PSC mapping + agency spend)
