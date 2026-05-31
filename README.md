@@ -7,6 +7,7 @@ Kellogg MBA · U.S. Naval Academy (Aerospace Engineering)
 ### Featured work
 
 **Trading / quant**
+- **[filing-analyst](https://github.com/P51moustache/filing-analyst)** — reads SEC 10-K filings and scores them with the Claude API (structured outputs, prompt caching, retries, evals)
 - **[weather-prediction](https://github.com/P51moustache/weather-prediction)** — quantitative edge detection for Kalshi weather markets (NOAA forecasts vs. market prices)
 - **[prediction-arb-bot](https://github.com/P51moustache/prediction-arb-bot)** — automated arbitrage across Kalshi and Polymarket
 
