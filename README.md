@@ -11,7 +11,6 @@ Kellogg MBA · U.S. Naval Academy (Aerospace Engineering)
 - **[prediction-arb-bot](https://github.com/P51moustache/prediction-arb-bot)** — automated arbitrage across Kalshi and Polymarket
 
 **AI / product**
-- **[defense-startup-app](https://github.com/P51moustache/defense-startup-app)** — Defense Foundry: federal contract intelligence (NAICS/PSC mapping + agency spend)
 - **[solarstorm](https://github.com/P51moustache/solarstorm)** — space weather and aurora forecasting app
 - **[cashflow-control](https://github.com/P51moustache/cashflow-control)** — personal finance app (React Native + Supabase)
 - **[puckiq](https://github.com/P51moustache/puckiq)** — PuckIQ: published iOS app for NHL fans (daily briefings, predictions, goalie and injury alerts)
